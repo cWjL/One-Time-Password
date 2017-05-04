@@ -122,7 +122,7 @@ class G_hashed_key {
 	 * Check if file exists
 	 */
 	public boolean check_file(){
-		return file_ex;
+		return this.file_ex;
 	}
 	
 	/*
