@@ -177,7 +177,7 @@ class G_hashed_key {
 /*
  * @param none
  * @return none
- * @author Jacob Loden, ID 1204452387, CSE465, Spring 2017
+ * @author Jacob Loden
  */
 public class one_time_pass {
 	
