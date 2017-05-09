@@ -489,9 +489,9 @@ public class one_time_pass {
 	 */
 	public void usage(){
 		System.out.println("\tCommand line argument usage:");
-		System.out.println("\tcse465_1204452387.java A <new_password_string>");
-		System.out.println("\tcse465_1204452387.java B");
-		System.out.println("\tcse465_1204452387.java C <password_string>");
+		System.out.println("\tjava -cp . one_time_pass A <new_password_string>");
+		System.out.println("\tjava -cp . one_time_pass B");
+		System.out.println("\tjava -cp . one_time_pass C <password_string>");
 		System.exit(0);
 	}
 	
